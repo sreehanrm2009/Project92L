@@ -3,5 +3,5 @@ function addUser() {
       p2 = document.getElementById("player2name").value;
       localStorage.setItem("p1n", p1);
       localStorage.setItem("p2n", p2);
-      window.display = "./Game/index.html";
+      window.display = "https://sreehanrm20009.github.io/Project92G";
 }
